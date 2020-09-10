@@ -1,4 +1,11 @@
 .box {
     display: flex;
     padding: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: darkslategray;
  }
+
+ body{
+     background-color: lightcyan;
+ }
+
