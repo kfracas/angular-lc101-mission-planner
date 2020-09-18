@@ -21,7 +21,6 @@ export class EquipmentComponent implements OnInit {
    cargoMass: number = 0;
    maximumAllowedMass: number = 2000;
    maxItems: number = 10;
-   inactiveEquipment: boolean = false;
    
    constructor() { }
 
